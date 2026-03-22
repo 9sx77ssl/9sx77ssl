@@ -1,75 +1,37 @@
-````md
-<h1 align="center">rsz</h1>
+```md
+<h2 align="center">noki44ngel</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=console.log(%22hello%22);;building+random+things;linux+%2B+servers+%2B+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ffaa&center=true&vCenter=true&lines=linux+user;code+%2F+servers;just+doing+stuff" />
 </p>
 
----
+```
 
-```bash
 > whoami
-rsz
+> noki44ngel
+
+> stack
+> arch / python / js / rust
 
 > status
-online
+> online
 
-> focus
-code / servers / random stuff
-
-> mood
-// undefined but working
-````
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noki44ngel&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noki44ngel&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### stack
-
-```txt
-arch linux
-python / js / rust
-docker / servers
 ```
 
----
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,python,js,rust,docker,git" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=noki44ngel&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,python,js,rust,docker" />
+</p>
 
-### currently doing
+```
 
-```txt
+> currently
 > exploring
 > building
-> breaking things
-> fixing them again
-```
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ffaa&style=flat" />
-</p>
-
----
-
-```txt
-no bio
-just code
-```
+> breaking -> fixing
 
 ```
 ```
