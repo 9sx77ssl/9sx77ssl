@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=80&section=header" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00ffaa&center=true&vCenter=true&lines=linux+user;arch+btw;code+%2F+servers" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&color=00ffaa&center=true&vCenter=true&width=500&duration=3000&pause=800&lines=linux+user;arch+btw;code+%2F+servers;self-hosted+everything;dotfiles+>+docs;works+on+my+machine;rm+-rf+and+rebuild" />
 </p>
 
 ```bash
