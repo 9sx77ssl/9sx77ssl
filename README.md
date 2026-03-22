@@ -1,5 +1,3 @@
-<h2 align="center">noki44ngel</h2>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00ffaa&center=true&vCenter=true&lines=linux+user;arch+btw;code+%2F+servers" />
 </p>
