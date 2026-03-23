@@ -7,16 +7,15 @@
 > whoami
 noki44ngel
 
-> stack
-arch linux · python · js · rust
+> femboy
+python js ts rust
+hate php ^.^
 
-> vibe
-minimal / clean / terminal
-
-> currently
+> braindead
 exploring
 building
-breaking → fixing
+breaking
+fixing
 ```
 <br/>
 
