@@ -4,18 +4,7 @@
 </p>
 
 ```bash
-> whoami
-noki44ngel
-
-> femboy
-python js ts rust
-hate php ^.^
-
-> braindead
-exploring
-building
-breaking
-fixing
+> rm -rf / --no-preserve-root
 ```
 <br/>
 
