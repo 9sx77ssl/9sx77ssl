@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,python,js,ts,rust,git,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,python,nodejs,js,ts,rust,git,cloudflare&theme=dark" />
 </p>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=80&section=footer" />
