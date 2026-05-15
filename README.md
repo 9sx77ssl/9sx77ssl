@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <h1>pidrila228</h1>
+  <h2>omerican burger dev</h2>
 </p>
 <br/>
 
